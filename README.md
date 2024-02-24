@@ -1,0 +1,2 @@
+# open.aitech
+artifical intelligence
